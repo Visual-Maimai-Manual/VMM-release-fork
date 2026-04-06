@@ -1,3 +1,4 @@
+now cause @CH3COOOHH already released VMM himself,so it will archive.
 # VMM-release-fork
 a fork about Visual Maimai Mobile,made by @CH3COOOHH.  
 It abandoned now,so it only have one version.  
